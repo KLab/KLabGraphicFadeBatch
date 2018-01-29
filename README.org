@@ -1,0 +1,9 @@
+#+TITLE: Graphic Fade Batch
+
+Sound Forge Pro 11上で, Graphic Fadeのプリセットを利用して波形データの先頭から指定時間及び末尾から指定時間分遡った位置から末尾まで, フェード処理を複数の波形データに対して一括でかけるスクリプト.
+
+* Requires
+- Sound Forge Pro 11
+- .NET Framework 2.0
+
+
